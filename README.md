@@ -1,3 +1,6 @@
+# NOTHING HERE YET. THIS IS A STUB!
+I'm rewriting my svd-xbee module, this is one of the new modules, but nothing works right now.
+
 # xbee-stream-nodes [![Build Status](https://secure.travis-ci.org/jouz/xbee-stream-nodes.png?branch=master)](http://travis-ci.org/jouz/xbee-stream-nodes)
 
 Extend xbee-stream with per-device functionality
