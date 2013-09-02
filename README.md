@@ -10,7 +10,9 @@ Install the module with: `npm install xbee-stream-nodes`
 
 ```javascript
 var xbee_stream_nodes = require('xbee-stream-nodes');
-xbee_stream_nodes.awesome(); // "awesome"
+
+// TODO
+
 ```
 
 ## Documentation
